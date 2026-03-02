@@ -20,14 +20,14 @@ This repository contains a comprehensive data science project aimed at identifyi
   * `caTools` (Machine Learning Train/Test Splits)
 
 ## 📂 Repository Structure
-* `Task A.R`: The primary R script containing the complete, commented data science pipeline.
+* `Hotel-Revenue-Determinants.R`: The primary R script containing the complete, commented data science pipeline.
 * `HOTELS_2025.csv`: The core dataset utilized for the analysis.
 * `Images/`: A directory containing all generated visual outputs, including:
   * Histograms and Density Curves
   * Boxplots for Outlier Detection
   * Correlation Heatmaps and Scatterplot Matrices
   * Q-Q Plots and Residual Diagnostic Graphs
-* `Task A.docx`: The detailed academic/professional report explaining the methodology and strategic findings.
+* `Hotel-Revenue-Determinants.docx`: The detailed academic/professional report explaining the methodology and strategic findings.
 
 ## 📈 Methodology Pipeline
 1. **Data Integrity Check:** Handled duplicates and missing values to ensure model readiness.
